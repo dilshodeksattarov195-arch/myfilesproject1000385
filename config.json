@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdync",
+        "uuid": 2618385,
+        "checksum": "bqs5w"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
